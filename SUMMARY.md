@@ -7,7 +7,7 @@
 * [👨💻 Panel](panel/README.md)
   * [🏪 Store](panel/store/README.md)
     * [👨🔧 Resource management](panel/store/resource-management.md)
-    * [➕ Server Deployment](panel/store/server-deployment.md)
+    * [➕ Server Deployment](panel/server-deployment.md)
   * [🧑 Account](panel/account/README.md)
     * [📄 Changing account details](panel/account/changing-account-details.md)
     * [✍ Creating and logging in](panel/creating-an-account.md)
