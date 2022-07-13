@@ -12,7 +12,7 @@
     * [📄 Changing account details](panel/account/changing-account-details.md)
     * [✍ Creating and logging in](panel/creating-an-account.md)
   * [🖥 Server](panel/server/README.md)
-    * [🤵 Adding subusers](panel/server/adding-subusers.md)
+    * [🤵 Managing subusers](panel/server/managing-subusers.md)
     * [📂 File Management](panel/server/file-management.md)
     * [📲 Renewals](panel/renewals.md)
 * [💰 Support us](support-us.md)

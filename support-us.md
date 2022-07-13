@@ -1,5 +1,6 @@
 ---
 description: We are providing free servers, but you can help us
+coverY: -456.67875271936185
 ---
 
 # 💰 Support us

@@ -1,5 +1,6 @@
 ---
 description: Select a category/post below
+coverY: 495.6635242929659
 ---
 
 # 🏠 Main Page
