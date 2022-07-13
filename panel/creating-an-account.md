@@ -2,7 +2,7 @@
 description: Documentation of Creating an account
 ---
 
-# 🧒 Creating and logging in
+# ✍ Creating and logging in
 
 ### Registration
 
