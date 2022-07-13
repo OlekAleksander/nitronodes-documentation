@@ -1,4 +1,8 @@
-# 🧒 Creating an account
+---
+description: Documentation of Creating an account
+---
+
+# 🧒 Creating and logging in
 
 ### Registration
 
