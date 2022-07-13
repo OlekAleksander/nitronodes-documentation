@@ -22,4 +22,4 @@ In the files tab there is an **SFTP DETAILS** form
 
 ![Example SFTP DETAILS form](../../.gitbook/assets/image.png)
 
-Login using a SFTP client (like [FileZilla](https://filezilla-project.org/) or [WinSCP](https://winscp.net/eng/download.php) ) and use the details from sftp form, the password is the same as your accounts one.
+Login using a SFTP client (like [FileZilla](https://filezilla-project.org/) or [WinSCP](https://winscp.net/eng/download.php)) and use the details from sftp form, the password is the same as your accounts one.

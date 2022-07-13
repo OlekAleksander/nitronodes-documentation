@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Main Page](README.md)
+* [🏠 Main Page](<README (1).md>)
 * [💸 Plans](plans/README.md)
   * [🤑 Free](plans/free.md)
   * [💵 Paid](plans/paid.md)
@@ -14,7 +14,7 @@
   * [🖥 Server](panel/server/README.md)
     * [📂 File Management](panel/server/file-management.md)
     * [📲 Renewals](panel/renewals.md)
-* [🖇 Links](<README (1).md>)
+* [🖇 Links](README.md)
   * [🔗 Discord](https://nitrohost.cf/discord)
   * [🔗 Panel](https://panel.nitrohost.cf)
   * [🔗 Website](https://nitrohost.cf)
