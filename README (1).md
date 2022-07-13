@@ -1,6 +1,5 @@
 ---
 description: Select a category/post below
-layout: editorial
 ---
 
 # 🏠 Main Page
