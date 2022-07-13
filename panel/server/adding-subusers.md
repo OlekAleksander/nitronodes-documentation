@@ -1,5 +1,5 @@
 ---
-description: Documentation about the users tab
+description: Documentation of the users tab
 ---
 
 # 🤵 Adding subusers

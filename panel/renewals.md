@@ -1,5 +1,5 @@
 ---
-description: Info about the renewals system
+description: Documentation of Renewals
 ---
 
 # 📲 Renewals

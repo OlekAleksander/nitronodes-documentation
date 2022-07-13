@@ -1,3 +1,7 @@
+---
+description: Documentation of Resource management
+---
+
 # 👨🔧 Resource management
 
 ### Purchasing resources

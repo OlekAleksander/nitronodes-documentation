@@ -1,6 +1,6 @@
 # 💵 Paid
 
-### Paid resources]
+### Paid resources
 
 > 100 coins - 1$
 >
