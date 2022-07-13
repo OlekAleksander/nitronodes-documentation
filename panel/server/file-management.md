@@ -1,3 +1,7 @@
+---
+description: Documentation of the files tab
+---
+
 # 📂 File Management
 
 ### Via the panel
