@@ -1,14 +1,6 @@
----
-description: Select a category below or use the sidebar
----
+# NitroHost Docs
 
-# 🏠 Main Page
-
-> ### Links
->
-> [Website](https://nitrohost.cf)
->
-> [Panel](https://panel.nitrohost.cf)&#x20;
->
-> [Discord](https://nitrohost.cf/discord)
-
+> Links:
+ [Website](https://nitrohost.cf)
+ [Panel](https://panel.nitrohost.cf)
+ [Discord](https://nitrohost.cf/discord)
