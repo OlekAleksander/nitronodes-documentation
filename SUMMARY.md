@@ -18,5 +18,5 @@
 * [💰 Support us](support-us.md)
 * [🖇 Links](<README (1).md>)
   * [🔗 Discord](https://nitrohost.cf/discord)
-  * [🔗 Panel](https://panel.nitrohost.cf)
-  * [🔗 Website](https://nitrohost.cf)
+  * [🔗 Panel](https://panel.nitronodes.xyz)
+  * [🔗 Website](https://nitronodes.xyz)

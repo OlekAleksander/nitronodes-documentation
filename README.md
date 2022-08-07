@@ -5,7 +5,7 @@ coverY: 495.6635242929659
 
 # 🏠 Main Page
 
-> Nitrohost is a freemium server hosting service.\
+> NitroNodes is a freemium server hosting service.\
 > Quick support, 24/7 uptime.
 
 {% content-ref url="panel/" %}
