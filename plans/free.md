@@ -6,7 +6,7 @@ description: Info about our free plan
 
 ### Resources
 
-> 1,5GB of Shared RAM
+> 1 of Shared RAM
 >
 > 5gb of disk space
 >
