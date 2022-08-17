@@ -6,7 +6,7 @@
   * [💵 Paid](plans/paid.md)
 * [👨💻 Panel](panel/README.md)
   * [🏪 Store](panel/store/README.md)
-    * [👨🔧 👨🔧 Resource management](panel/store/resource-management.md)
+    * [👨🔧 Resource management](panel/store/resource-management.md)
     * [➕ Server Deployment](panel/server-deployment.md)
   * [🧑 Account](panel/account/README.md)
     * [📄 Changing account details](panel/account/changing-account-details.md)
