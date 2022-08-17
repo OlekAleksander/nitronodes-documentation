@@ -7,7 +7,7 @@
 * [👨💻 Panel](panel/README.md)
   * [🏪 Store](panel/store/README.md)
     * [👨🔧 Resource management](panel/store/resource-management.md)
-    * [➕ Server Deployment](panel/store/server-deployment/README.md)
+    * [➕ Server Deployment](panel/server-deployment.md)
       * [💻 Hosting an python app](panel/store/server-deployment/hosting-an-python-app.md)
       * [💻 Hosting an nodejs app](panel/store/server-deployment/hosting-an-nodejs-app.md)
   * [🧑 Account](panel/account/README.md)

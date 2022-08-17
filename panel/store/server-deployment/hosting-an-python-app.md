@@ -27,3 +27,10 @@ Incorrect Requirements.txt:\
 Change your main .py file name to `app.py`\
 ``or\
 Change the main file in the **Startup** tab to your main .py file name&#x20;
+
+### Start your app
+
+You are done!\
+Now go to the console page and click the **Start** button\
+\
+If you have any errors contact us on our [discord](https://nitronodes.xyz/discord.html)
