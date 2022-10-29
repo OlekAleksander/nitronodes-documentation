@@ -10,7 +10,7 @@ You can modify servers files using the web file editor.
 
 #### FAQ
 
-How to move the files to the root folder: in the Move popup enter `/`
+How to move the files to the root folder: in the Move popup type `/`
 
 How to move the files to a directory back: use `..` (like in linux)
 
